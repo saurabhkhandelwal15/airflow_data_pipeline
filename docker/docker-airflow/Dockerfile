@@ -6,7 +6,7 @@
 
 # stretch debian version allows JAVA JDK 8
 FROM python:3.6-stretch
-LABEL maintainer="cordon-thiago"
+LABEL maintainer="khandelwal-saurabh"
 
 # Never prompts the user for choices on installation/configuration of packages
 ENV DEBIAN_FRONTEND noninteractive
