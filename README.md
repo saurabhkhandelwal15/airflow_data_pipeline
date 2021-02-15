@@ -36,8 +36,7 @@ It is totally permitted to make use of any sample code, libraries or other resou
 9. Below are the things to make it more robust:
 - Add error handling in terms of filenames
 - Error handling for schema
-- Airflow dag needs to be more productionalised 
-
+- Airflow dag needs to be productionalised 
 
 
 ## Setup
